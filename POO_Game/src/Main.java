@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+        System.out.println("editado por XXXX");
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
         toyo.avanzar();
